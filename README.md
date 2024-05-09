@@ -55,7 +55,10 @@
 SearchEase:A comprehensive Search Engine capable of searching within the documents. Employed NLP techniques for text pre-processing, keyword extraction, and semantic understanding. Integrated machine learning algorithms for personalized recommendations, adaptive search results, and relevance ranking. Implemented inverted index search and vector search techniques for efficient and intelligent information retrieval. Image processing and search within images.
 
 ## Acknowledgments
-- 
+Guided By - Vinay Soni
+vnysoni07@gmail.com
 
 ## Contact
+Palak Tiwari
 palaktiwari088@gmail.com
+www.linkedin.com/in/palak-tiwari--
